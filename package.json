@@ -1,0 +1,13 @@
+{
+  "name": "ANC",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/nekomeowww/ANC",
+  "author": "Ayaka Neko <neko@ayaka.moe>",
+  "license": "None",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0",
+    "koa-static": "^5.0.0"
+  }
+}
